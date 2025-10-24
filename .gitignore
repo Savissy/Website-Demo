@@ -1,0 +1,4 @@
+hts-cache/
+hts-log.txt
+*.tmp
+.DS_Store
